@@ -47,5 +47,5 @@ Duplicates the top value of the stack to the top of the stack
 Swaps the entire stack e.g [4, 2, 6, 7] becomes [7, 6, 2, 4]<br>
 Useful for burgers
 
-`<infinite>`<br>
+`<infinite/infinity>`<br>
 Stands for 2^63-1
